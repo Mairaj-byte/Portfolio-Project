@@ -14,12 +14,13 @@
 
 
   :root {
-  --bg-color: #0a0f1c;        /* Rich dark navy background */
-  --second-bg-color: #161e2e; /* Deep slate-blue panels */
-  --text-color: #e2e8f0;      /* Light cool gray text */
-  --main-color: #3b82f6;      /* Vibrant blue accent */
-  --shadow-color: rgba(59, 130, 246, 0.25); /* Soft blue shadow */
+  --bg-color: #121212;         /* Dark blackish background */
+  --second-bg-color: #1e1e1e;  /* Dark grey panels */
+  --text-color: #d1d5db;       /* Light grey text */
+  --main-color: #3b82f6;       /* Bright blue accent */
+  --shadow-color: rgba(59, 130, 246, 0.3); /* Subtle blue shadow */
 }
+
 
 
 
