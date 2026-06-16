@@ -153,6 +153,7 @@ section {
   display: flex;
   justify-content: center;
   animation: floatImage 4s ease-in-out infinite;
+  margin-top: 50px;
 }
 
 .home-img img {
@@ -875,6 +876,7 @@ section {
   .social-media a {
     margin: 0 8px;
     font-size: 24px;
+    font-size: 2rem;
   }
 
   .btn {
